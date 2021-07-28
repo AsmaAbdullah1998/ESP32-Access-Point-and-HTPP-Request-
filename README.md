@@ -1,4 +1,4 @@
-# ESP32 Acsess Point and HTTP Request 
+# ESP32 Access Point and HTTP Request 
 
 ![esp32](https://user-images.githubusercontent.com/66702376/127374498-5ed69988-4325-4522-b286-2d3ef6cf0d3d.jpg)
 
